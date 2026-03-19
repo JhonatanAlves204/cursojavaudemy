@@ -31,6 +31,7 @@ public class EnterStudent {
             double pass = student.pass(student.nota1, student.nota2, student.nota3);
             System.out.printf("FINAL GRANDE = %.2f",pass);
             System.out.println("\nPASS");
+            System.out.println();
         }
 
     }
