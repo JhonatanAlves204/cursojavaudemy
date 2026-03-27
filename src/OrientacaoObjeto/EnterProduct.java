@@ -18,8 +18,8 @@ public class EnterProduct {
         double price = sc.nextDouble();
         Product product = new Product(name, price);
 
-        product.setName("Computer");
-        System.out.println("Updated name: " + product.getName());
+        System.out.println();
+        System.out.println("Product data: " + product);
 
         System.out.println("Enter the number of products to be added in stock: ");
         int quantityToAdd = sc.nextInt();
