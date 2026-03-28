@@ -1,4 +1,4 @@
-package OrientacaoObjeto.Banco;
+package OrientacaoObjeto.entities;
 
 public class Banco {
     private int numConta;

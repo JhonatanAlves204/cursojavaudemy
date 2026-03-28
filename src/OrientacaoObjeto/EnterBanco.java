@@ -1,4 +1,6 @@
-package OrientacaoObjeto.Banco;
+package OrientacaoObjeto;
+
+import OrientacaoObjeto.entities.Banco;
 
 import java.util.Locale;
 import java.util.Scanner;
